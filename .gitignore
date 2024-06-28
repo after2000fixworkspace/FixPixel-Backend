@@ -2,3 +2,10 @@
 
 .env
 .venv
+
+### Cache
+**/__pycache__/**
+__pycache__/**
+
+### Media
+/media
